@@ -1,0 +1,26 @@
+# Node
+node_modules/
+frontend/node_modules/
+frontend/package-lock.json
+
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Build outputs
+dist/
+build/
+.vite/
+
+# Environment
+.env
+.env.local
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
